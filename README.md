@@ -1,6 +1,6 @@
 # MGE Other Versions
 
-Versions: (0.2.0)  
+Versions: (0.2.0, Bata-0.2.1)  
 
 ## Dependencies
 [pygame](https://pypi.org/project/pygame/) -
