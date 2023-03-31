@@ -3,6 +3,7 @@
 Versions: ('0.2.0', 'Beta-0.2.1')  
 
 ## Dependencies
+from 0.2.0 to 0.2.1  
 [`pygame`](https://pypi.org/project/pygame/) -
 [`numpy`](https://pypi.org/project/numpy/) -
 [`pillow`](https://pypi.org/project/Pillow/) -
